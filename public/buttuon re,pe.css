@@ -1,0 +1,42 @@
+._1_kc0 {
+    text-align: initial;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+    justify-content: var(--label-align);
+    min-width: 100%
+}
+._22oPj ._1_kc0 {
+    border-radius: var(--rd, 0);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    transition: var(--trans1, border-color .4s ease 0s, background-color .4s ease 0s);
+    box-shadow: var(--shd, 0 1px 4px rgba(0, 0, 0, .6))
+}
+._22oPj ._3fUtn {
+    font: var(--fnt, var(--font_5));
+    transition: var(--trans2, color .4s ease 0s);
+    color: rgba(var(--txt, var(--color_15)), var(--alpha-txt, 1));
+    position: relative;
+    white-space: nowrap;
+    margin: 0
+}
+ 
+._22oPj[aria-disabled=false] ._1_kc0 {
+    background-color: rgba(var(--bg, var(--color_17)), var(--alpha-bg, 1));
+    border: solid rgba(var(--brd, var(--color_15)), var(--alpha-brd, 1)) var(--brw, 0);
+    cursor: pointer !important
+}  [data-mesh-id=comp-k238y4rqinlineContent-gridContainer]>[id="comp-k0med55t"] {
+    position: relative;
+    margin: 0px 0px 42px calc((100% - 980px) * 0.5);
+    left: 599px;
+    grid-area: 3 / 1 / 4 / 2;
+    justify-self: start;
+    align-self: start
+}

@@ -1,0 +1,15 @@
+._3MMC_ {
+    width: auto;
+    white-space: nowrap;
+    height: 100%
+}
+
+._3MMC_ ._1aZQ0 {
+    display: var(--item-display);
+    width: var(--item-size);
+    height: var(--item-size)
+}
+
+._3MMC_ ._1aZQ0:not(:last-child) {
+    margin: var(--item-margin)
+}

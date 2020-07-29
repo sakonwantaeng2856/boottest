@@ -1,0 +1,37 @@
+[data-mesh-id=comp-k99pg7zyinlineContent-gridContainer] {
+    position: static;
+    display: grid;
+    height: auto;
+    width: 100%;
+    min-height: auto;
+    grid-template-rows: 1fr;
+    grid-template-columns: 100%
+}
+
+[data-mesh-id=comp-k99pg7zyinlineContent-gridContainer]>[id="comp-k0kxi2bz"] {
+    position: relative;
+    margin: 51px 0px 59px calc((100% - 490px) * 0);
+    left: 49px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start
+}
+
+[data-mesh-id=comp-k99pg7zyinlineContent-gridContainer]>[id="comp-k0kr12fe"] {
+    position: relative;
+    margin: 47px 0px 54px calc((100% - 490px) * 0);
+    left: 74px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start
+}
+
+
+[data-mesh-id=comp-k99pg7zyinlineContent-gridContainer]>[id="comp-k0kr2gq3"] {
+    position: relative;
+    margin: 52px 0px 54px calc((100% - 490px) * 0);
+    left: 264px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start
+}

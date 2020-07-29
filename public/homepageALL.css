@@ -1,0 +1,29 @@
+._3_wbk,
+.FgquG {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden
+}
+.P0kib {
+    background-color: var(--bg-overlay-color)
+}
+body:not(.device-mobile-optimized) ._3BQmz>* {
+    flex: var(--column-flex);
+    min-width: var(--column-width);
+    margin-top: var(--padding);
+    margin-bottom: var(--padding);
+    position: relative;
+    left: 0;
+    top: 0;
+    margin-left: var(--margin)
+}
+[data-mesh-id=Containerklk7ainlineContent-gridContainer]>[id="comp-k0med54x"] {
+    position: relative;
+    margin: 0px 0px 10px calc((100% - 980px) * 0.5);
+    left: 0px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start
+}

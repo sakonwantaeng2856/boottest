@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "js",
+			"path": "..\\..\\bootstrap4.5-5\\bootstrap-4.5.0-dist\\bootstrap-4.5.0-dist\\js"
+		},
+		{
+			"name": "css",
+			"path": "..\\..\\bootstrap4.5-5\\bootstrap-4.5.0-dist\\bootstrap-4.5.0-dist\\css"
+		},
+		{
+			"name": "public",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "public"
+	}
+}

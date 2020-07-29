@@ -1,0 +1,11 @@
+body:not(.device-mobile-optimized) ._3BQmz {
+    display: flex;
+    position: relative;
+    width: calc(100% - var(--padding)*2);
+    margin: 0 auto
+}
+._2Z0JD[data-state~=selected] ._1pNsM {
+    color: rgba(var(--txts, var(--color_15)), var(--alpha-txts, 1));
+    display: inline-block;
+    padding-top: 5px
+}

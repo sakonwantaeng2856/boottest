@@ -1,0 +1,18 @@
+[data-mesh-id=comp-k99pgiwxinlineContent-gridContainer] {
+    position: static;
+    display: grid;
+    height: auto;
+    width: 100%;
+    min-height: auto;
+    grid-template-rows: 1fr;
+    grid-template-columns: 100%
+}
+
+[data-mesh-id=comp-k99pgiwxinlineContent-gridContainer]>[id="comp-k0ktncj6"] {
+    position: relative;
+    margin: 37px 0px 54px calc((100% - 490px) * 1);
+    left: 383px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start
+}

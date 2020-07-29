@@ -1,0 +1,43 @@
+#SITE_HEADER {
+           
+    --shd: none;
+    --brwt: 0px;
+    --brd: var(--color_11);
+    --brwb: 0px;
+    --bgctr: var(--color_11);
+    --rd: 0px;
+    --boxShadowToggleOn-shd: none;
+    --alpha-brd: 1;
+    --alpha-bgctr: 1;
+    --alpha-bg: 1;
+    left: 0;
+    margin-left: 0;
+    width: 100%;
+    min-width: 980px;
+    --shc-mutated-brightness: 128, 128, 128;
+    position: fixed !important;
+    z-index: 50
+}
+
+#comp-k99pg7zy {
+    width: 100%;
+    --bg-overlay-color: rgb(207, 199, 242);
+    --fill-layer-background-media-position: absolute;
+    --fill-layer-background-media-pointer-events: auto;
+    --fill-layer-background-overlay-position: absolute;
+    --column-width: 490px;
+    --column-flex: 490
+}
+#comp-k99pgiwx {
+    width: 100%;
+    --bg-overlay-color: rgb(207, 199, 242);
+    --fill-layer-background-media-position: absolute;
+    --fill-layer-background-media-pointer-events: auto;
+    --fill-layer-background-overlay-position: absolute;
+    --column-width: 490px;
+    --column-flex: 490
+}
+
+#SITE_HEADER-placeholder {
+    height: 40px
+}
